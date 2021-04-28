@@ -16,3 +16,5 @@ The project is called Symptoms and Conditions. I am on team 14, and am working i
   1) date of birth cannot be updated through the webpage. 
   2) new symptoms cannot be created in the webpage
   3) existing conditions cannot be altered
+
+Code renders using the index.html file under webpage/react (below the users folder).
