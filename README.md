@@ -10,3 +10,9 @@ The project is called Symptoms and Conditions. I am on team 14, and am working i
   -Anyone hoping to see what symptoms are associated with different conditions can make use of this database. It can help healthcare providers make medical decisons, and it can help patients understand their symptoms. 
   -A UML diagram representing this database can be found here: https://lucid.app/lucidchart/invitations/accept/inv_7fbb351d-75b3-4239-9547-9f27c17fc2e0
   -The Repository Interfaces of the code implement the methods of CrudRepository.
+  
+  
+  Unresolved issues with the code: 
+  1) date of birth cannot be updated through the webpage. 
+  2) new symptoms cannot be created in the webpage
+  3) existing conditions cannot be altered
